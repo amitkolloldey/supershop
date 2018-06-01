@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e5ab2bf3-b7a4-4acb-b39b-e98d4c192654" name="Default" comment="" />
+    <list default="true" id="e5ab2bf3-b7a4-4acb-b39b-e98d4c192654" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,13 +25,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.blade.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.blade.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/backend/dashboard/index.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="372" lean-forward="true" selection-start-line="372" selection-end-line="372" />
+            <state relative-caret-position="373">
+              <caret line="372" selection-start-line="372" selection-end-line="372" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/storage/app/public/.gitignore">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/storage/app/.gitignore">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -149,67 +161,6 @@
               <item name="supershop" type="b2602c69:ProjectViewProjectNode" />
               <item name="supershop" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
-            <path>
-              <item name="supershop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="supershop" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="supershop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="supershop" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Console" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="supershop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="supershop" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Http" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="supershop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="supershop" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Http" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Controllers" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="supershop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="supershop" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Providers" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="supershop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="supershop" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="storage" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="supershop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="supershop" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="storage" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="supershop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="supershop" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="storage" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="public" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="supershop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="supershop" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="storage" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="framework" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="supershop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="supershop" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="storage" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="framework" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -241,7 +192,7 @@
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32972136" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.6393189" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -348,10 +299,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/backend/dashboard/index.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="372" lean-forward="true" selection-start-line="372" selection-end-line="372" />
+        <state relative-caret-position="373">
+          <caret line="372" selection-start-line="372" selection-end-line="372" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storage/app/public/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storage/app/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

@@ -1,4 +1,4 @@
-<h1>NeedsShop - Super Shop Management System In Laravel</h1>
+<h1>NeedsShop - Mega Mart In Laravel</h1>
 <br>
 <img src="https://image.ibb.co/hJNxYJ/logo.png"/>
 <br>

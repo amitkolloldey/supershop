@@ -33,27 +33,25 @@
 </ul>
 <br><br>
 <h3>Separate Access For Sales Men and Administrator Access</h3>
-![Dashboard](https://s22.postimg.cc/f7lohvwvx/dashboad.png "Dashboard") 
+<img src="https://s22.postimg.cc/f7lohvwvx/dashboad.png"/>
 <br>
 <h3>Shop Products Management</h3>
-![Shop Products Management](https://s22.postimg.cc/dsk3t6iy5/product.png "Shop Products Management") 
+<img src="https://s22.postimg.cc/dsk3t6iy5/product.png"/>
 <br>
 <h3>Sales Management</h3>
-[url=https://postimg.cc/image/k696wel99/][img]https://s22.postimg.cc/k696wel99/sales.png[/img][/url]
+<img src="https://s22.postimg.cc/k696wel99/sales.png"/>
 <br>
 <h3>Purchase Management</h3>
-[url=https://postimg.cc/image/6cku7dft9/][img]https://s22.postimg.cc/6cku7dft9/purchase.png[/img][/url]
+<img src="https://s22.postimg.cc/6cku7dft9/purchase.png"/>
 <br>
 <h3>Invoice Print</h3>
-[url=https://postimg.cc/image/wxnd2w065/][img]https://s22.postimg.cc/wxnd2w065/pdfprint.png[/img][/url]
+<img src="https://s22.postimg.cc/wxnd2w065/pdfprint.png"/>
 <br>
 <h3>Expenses Management</h3>
-[url=https://postimg.cc/image/4xj9ilozx/][img]https://s22.postimg.cc/4xj9ilozx/expense.png[/img][/url]
-<br>
-<h3>Dashboard Module Management</h3>
-[url=https://postimg.cc/image/gzencsvod/][img]https://s22.postimg.cc/gzencsvod/module.png[/img][/url]
+<img src="https://s22.postimg.cc/4xj9ilozx/expense.png"/>
 <br>
 <h3>Bank Transfer</h3>
-![Dashboard](https://s22.postimg.cc/f7lohvwvx/dashboad.png "Dashboard") 
-[url=https://postimg.cc/image/k696wc0nx/][img]https://s22.postimg.cc/k696wc0nx/bankdeposite.png[/img][/url]
+<img src="https://s22.postimg.cc/k696wc0nx/bankdeposite.png"/>
 <br>
+<h3>Dashboard Module Management</h3>
+<img src="https://s22.postimg.cc/gzencsvod/module.png"/>

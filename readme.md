@@ -33,13 +33,10 @@
 </ul>
 <br><br>
 <h3>Separate Access For Sales Men and Administrator Access</h3>
-(https://s22.postimg.cc/f7lohvwvx/dashboad.png)
-<br>
-<h3>Bank Transfer</h3>
-[url=https://postimg.cc/image/k696wc0nx/][img]https://s22.postimg.cc/k696wc0nx/bankdeposite.png[/img][/url]
+![Dashboard](https://s22.postimg.cc/f7lohvwvx/dashboad.png "Dashboard") 
 <br>
 <h3>Shop Products Management</h3>
-[url=https://postimg.cc/image/dsk3t6iy5/][img]https://s22.postimg.cc/dsk3t6iy5/product.png[/img][/url]
+![Shop Products Management](https://s22.postimg.cc/dsk3t6iy5/product.png "Shop Products Management") 
 <br>
 <h3>Sales Management</h3>
 [url=https://postimg.cc/image/k696wel99/][img]https://s22.postimg.cc/k696wel99/sales.png[/img][/url]
@@ -55,3 +52,8 @@
 <br>
 <h3>Dashboard Module Management</h3>
 [url=https://postimg.cc/image/gzencsvod/][img]https://s22.postimg.cc/gzencsvod/module.png[/img][/url]
+<br>
+<h3>Bank Transfer</h3>
+![Dashboard](https://s22.postimg.cc/f7lohvwvx/dashboad.png "Dashboard") 
+[url=https://postimg.cc/image/k696wc0nx/][img]https://s22.postimg.cc/k696wc0nx/bankdeposite.png[/img][/url]
+<br>

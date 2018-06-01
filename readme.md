@@ -33,7 +33,7 @@
 </ul>
 <br><br>
 <h3>Separate Access For Sales Men and Administrator Access</h3>
-[img]https://s22.postimg.cc/f7lohvwvx/dashboad.png[/img]
+(https://s22.postimg.cc/f7lohvwvx/dashboad.png)
 <br>
 <h3>Bank Transfer</h3>
 [url=https://postimg.cc/image/k696wc0nx/][img]https://s22.postimg.cc/k696wc0nx/bankdeposite.png[/img][/url]
